@@ -1,0 +1,62 @@
+/* FONTS */
+
+@font-face {
+  font-family: 'Nimbus';
+  src: url('assets/fonts/NimbusSanL-Regu.woff2') format('woff2'),
+    url('assets/fonts/NimbusSanL-Regu.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Druk';
+  src: url('assets/fonts/Druk-Medium.woff2') format('woff2'),
+    url('assets/fonts/Druk-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Druk';
+  src: url('assets/fonts/Druk-Super.woff2') format('woff2'),
+    url('assets/fonts/Druk-Super.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Druk-Wide-Super';
+  src: url('assets/fonts/DrukWide-Super.woff2') format('woff2'),
+    url('assets/fonts/DrukWide-Super.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Nimbus';
+}
+
+.page {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Druk-Wide-Super', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
