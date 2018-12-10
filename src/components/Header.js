@@ -38,14 +38,7 @@ const NavLink = styled(Link)`
   position: relative;
   text-decoration: none;
 
-  &.is-home {
-    text-transform: uppercase;
-    font-family: 'Druk-Wide-Super', sans-serif;
-    font-size: 0.75rem;
-    letter-spacing: 0.1rem;
-  }
-
-  &.is-active:after {
+  &:after {
     content: '';
     display: block;
     position: absolute;
@@ -55,7 +48,21 @@ const NavLink = styled(Link)`
     width: 6px;
     height: 6px;
     border-radius: 50%;
-    background-color: ${({ theme }) => theme.colors.black};
+    background-color: ${({ theme }) => theme.colors.white};
+    opacity: 0;
+    transition: opacity 0.6s ${easings.easeOutExpo},
+      transform 0.6s ${easings.easeOutExpo};
+  }
+
+  &.is-home {
+    text-transform: uppercase;
+    font-family: 'Druk-Wide-Super', sans-serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.1rem;
+  }
+
+  &.is-active:after {
+    opacity: 1;
   }
 `
 
@@ -83,7 +90,7 @@ const Header = ({ pathname, in: inProp }) => {
                 <NavLink
                   className={`${isActive ? 'is-active' : ''} ${key === 'home' &&
                     'is-home'}`}
-                  color={'black'}
+                  color={'white'}
                   px={[2, 3]}
                   py={4}
                   to={path.path}

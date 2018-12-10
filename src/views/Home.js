@@ -54,7 +54,7 @@ class Projects extends Component {
     for (let i = 0; i < 5; i++) {
       list.push(
         <ListItem key={`season-link-${i}`}>
-          <NavLink color={'black'} py={[2, 3]} to={`/season/${i}`}>
+          <NavLink color={'white'} py={[2, 3]} to={`/season/${i}`}>
             Project {i}
           </NavLink>
         </ListItem>
@@ -65,7 +65,7 @@ class Projects extends Component {
   render() {
     const projectsList = this.renderList()
     return (
-      <section className="page">
+      <section className="page ">
         <h1>Projects</h1>
         <List ref={el => (this.$list = el)}>{projectsList}</List>
       </section>
