@@ -1,0 +1,176 @@
+{
+  "record": "56-26",
+  "coach": "Phil Jackson",
+  "roster": [
+    {
+      "No.": 8,
+      "Player": "Kobe Bryant",
+      "Pos": "SG",
+      "Ht": "6-6",
+      "Wt": 212,
+      "Birth Date": "August 23 1978",
+      "Exp": 7,
+      "College": ""
+    },
+    {
+      "No.": 1,
+      "Player": "Maurice Carter",
+      "Pos": "SG",
+      "Ht": "6-5",
+      "Wt": 210,
+      "Birth Date": "October 12 1976",
+      "Exp": "R",
+      "College": "Louisiana State University"
+    },
+    {
+      "No.": 7,
+      "Player": "Brian Cook",
+      "Pos": "C",
+      "Ht": "6-9",
+      "Wt": 234,
+      "Birth Date": "December 4 1980",
+      "Exp": "R",
+      "College": "University of Illinois at Urbana-Champaign"
+    },
+    {
+      "No.": 2,
+      "Player": "Derek Fisher",
+      "Pos": "SG",
+      "Ht": "6-1",
+      "Wt": 200,
+      "Birth Date": "August 9 1974",
+      "Exp": 7,
+      "College": "University of Arkansas at Little Rock"
+    },
+    {
+      "No.": 17,
+      "Player": "Rick Fox",
+      "Pos": "SF",
+      "Ht": "6-7",
+      "Wt": 230,
+      "Birth Date": "July 24 1969",
+      "Exp": 12,
+      "College": "University of North Carolina"
+    },
+    {
+      "No.": 3,
+      "Player": "Devean George",
+      "Pos": "SF",
+      "Ht": "6-8",
+      "Wt": 220,
+      "Birth Date": "August 29 1977",
+      "Exp": 4,
+      "College": "Augsburg College"
+    },
+    {
+      "No.": 54,
+      "Player": "Horace Grant",
+      "Pos": "PF",
+      "Ht": "6-10",
+      "Wt": 215,
+      "Birth Date": "July 4 1965",
+      "Exp": 16,
+      "College": "Clemson University"
+    },
+    {
+      "No.": 11,
+      "Player": "Karl Malone",
+      "Pos": "PF",
+      "Ht": "6-9",
+      "Wt": 250,
+      "Birth Date": "July 24 1963",
+      "Exp": 18,
+      "College": "Louisiana Tech University"
+    },
+    {
+      "No.": 14,
+      "Player": "Stanislav Medvedenko",
+      "Pos": "PF",
+      "Ht": "6-10",
+      "Wt": 250,
+      "Birth Date": "April 4 1979",
+      "Exp": 3,
+      "College": ""
+    },
+    {
+      "No.": 34,
+      "Player": "Shaquille O'Neal",
+      "Pos": "C",
+      "Ht": "7-1",
+      "Wt": 325,
+      "Birth Date": "March 6 1972",
+      "Exp": 11,
+      "College": "Louisiana State University"
+    },
+    {
+      "No.": 12,
+      "Player": "Jannero Pargo",
+      "Pos": "PG",
+      "Ht": "6-1",
+      "Wt": 175,
+      "Birth Date": "October 22 1979",
+      "Exp": 1,
+      "College": "University of Arkansas"
+    },
+    {
+      "No.": 20,
+      "Player": "Gary Payton",
+      "Pos": "PG",
+      "Ht": "6-4",
+      "Wt": 180,
+      "Birth Date": "July 23 1968",
+      "Exp": 13,
+      "College": "Oregon State University"
+    },
+    {
+      "No.": 21,
+      "Player": "Kareem Rush",
+      "Pos": "SG",
+      "Ht": "6-6",
+      "Wt": 215,
+      "Birth Date": "October 30 1980",
+      "Exp": 1,
+      "College": "University of Missouri"
+    },
+    {
+      "No.": 9,
+      "Player": "Bryon Russell",
+      "Pos": "SF",
+      "Ht": "6-7",
+      "Wt": 225,
+      "Birth Date": "December 31 1970",
+      "Exp": 10,
+      "College": "California State University Long Beach"
+    },
+    {
+      "No.": 31,
+      "Player": "Jamal Sampson",
+      "Pos": "C",
+      "Ht": "6-11",
+      "Wt": 235,
+      "Birth Date": "May 15 1983",
+      "Exp": 1,
+      "College": "University of California"
+    },
+    {
+      "No.": 5,
+      "Player": "Ime Udoka",
+      "Pos": "SF",
+      "Ht": "6-6",
+      "Wt": 215,
+      "Birth Date": "August 9 1977",
+      "Exp": "R",
+      "College": "University of San Francisco Portland State University"
+    },
+    {
+      "No.": 4,
+      "Player": "Luke Walton",
+      "Pos": "PF",
+      "Ht": "6-8",
+      "Wt": 235,
+      "Birth Date": "March 28 1980",
+      "Exp": "R",
+      "College": "University of Arizona"
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "record": "56-26",
+  "coach": "Del Harris",
+  "roster": [
+    {
+      "No.": 43,
+      "Player": "Corie Blount",
+      "Pos": "PF",
+      "Ht": "6-9",
+      "Wt": 240,
+      "Birth Date": "January 4 1969",
+      "Exp": 3,
+      "College": "University of Cincinnati"
+    },
+    {
+      "No.": 8,
+      "Player": "Kobe Bryant",
+      "Pos": "SG",
+      "Ht": "6-6",
+      "Wt": 212,
+      "Birth Date": "August 23 1978",
+      "Exp": "R",
+      "College": ""
+    },
+    {
+      "No.": 41,
+      "Player": "Elden Campbell",
+      "Pos": "PF",
+      "Ht": "6-11",
+      "Wt": 215,
+      "Birth Date": "July 23 1968",
+      "Exp": 6,
+      "College": "Clemson University"
+    },
+    {
+      "No.": 23,
+      "Player": "Cedric Ceballos",
+      "Pos": "SF",
+      "Ht": "6-6",
+      "Wt": 190,
+      "Birth Date": "August 2 1969",
+      "Exp": 6,
+      "College": "California State University Fullerton"
+    },
+    {
+      "No.": 2,
+      "Player": "Derek Fisher",
+      "Pos": "PG",
+      "Ht": "6-1",
+      "Wt": 200,
+      "Birth Date": "August 9 1974",
+      "Exp": "R",
+      "College": "University of Arkansas at Little Rock"
+    },
+    {
+      "No.": 5,
+      "Player": "Robert Horry",
+      "Pos": "SF",
+      "Ht": "6-9",
+      "Wt": 220,
+      "Birth Date": "August 25 1970",
+      "Exp": 4,
+      "College": "University of Alabama"
+    },
+    {
+      "No.": 6,
+      "Player": "Eddie Jones",
+      "Pos": "SG",
+      "Ht": "6-6",
+      "Wt": 190,
+      "Birth Date": "October 20 1971",
+      "Exp": 2,
+      "College": "Temple University"
+    },
+    {
+      "No.": 12,
+      "Player": "Jerome Kersey",
+      "Pos": "SF",
+      "Ht": "6-7",
+      "Wt": 215,
+      "Birth Date": "June 26 1962",
+      "Exp": 12,
+      "College": "Longwood University"
+    },
+    {
+      "No.": 35,
+      "Player": "Joe Kleine",
+      "Pos": "C",
+      "Ht": "6-11",
+      "Wt": 255,
+      "Birth Date": "January 4 1962",
+      "Exp": 11,
+      "College": "University of Notre Dame University of Arkansas"
+    },
+    {
+      "No.": 40,
+      "Player": "Travis Knight",
+      "Pos": "C",
+      "Ht": "7-0",
+      "Wt": 235,
+      "Birth Date": "September 13 1974",
+      "Exp": "R",
+      "College": "University of Connecticut"
+    },
+    {
+      "No.": 7,
+      "Player": "Larry Krystkowiak",
+      "Pos": "PF",
+      "Ht": "6-9",
+      "Wt": 220,
+      "Birth Date": "September 23 1964",
+      "Exp": 9,
+      "College": "University of Montana"
+    },
+    {
+      "No.": 24,
+      "Player": "George McCloud",
+      "Pos": "SF",
+      "Ht": "6-6",
+      "Wt": 205,
+      "Birth Date": "May 27 1967",
+      "Exp": 6,
+      "College": "Florida State University"
+    },
+    {
+      "No.": 34,
+      "Player": "Shaquille O'Neal",
+      "Pos": "C",
+      "Ht": "7-1",
+      "Wt": 325,
+      "Birth Date": "March 6 1972",
+      "Exp": 4,
+      "College": "Louisiana State University"
+    },
+    {
+      "No.": 20,
+      "Player": "Rumeal Robinson",
+      "Pos": "PG",
+      "Ht": "6-2",
+      "Wt": 195,
+      "Birth Date": "November 13 1966",
+      "Exp": 5,
+      "College": "University of Michigan"
+    },
+    {
+      "No.": 45,
+      "Player": "Sean Rooks",
+      "Pos": "C",
+      "Ht": "6-10",
+      "Wt": 250,
+      "Birth Date": "September 9 1969",
+      "Exp": 4,
+      "College": "University of Arizona"
+    },
+    {
+      "No.": 4,
+      "Player": "Byron Scott",
+      "Pos": "SG",
+      "Ht": "6-3",
+      "Wt": 195,
+      "Birth Date": "March 28 1961",
+      "Exp": 13,
+      "College": "Arizona State University"
+    },
+    {
+      "No.": 9,
+      "Player": "Nick Van Exel",
+      "Pos": "PG",
+      "Ht": "6-1",
+      "Wt": 170,
+      "Birth Date": "November 27 1971",
+      "Exp": 3,
+      "College": "Trinity Valley Community College University of Cincinnati"
+    }
+  ]
+}

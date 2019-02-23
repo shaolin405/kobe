@@ -1,0 +1,166 @@
+{
+  "record": "34-4850-32",
+  "coach": ["Rudy Tomjanovich", " Frank Hamblen"],
+  "roster": [
+    {
+      "No.": 9,
+      "Player": "Chucky Atkins",
+      "Pos": "PG",
+      "Ht": "5-11",
+      "Wt": 160,
+      "Birth Date": "August 14 1974",
+      "Exp": 5,
+      "College": "University of South Florida"
+    },
+    {
+      "No.": 15,
+      "Player": "Tony Bobbitt",
+      "Pos": "SG",
+      "Ht": "6-4",
+      "Wt": 190,
+      "Birth Date": "October 22 1979",
+      "Exp": "R",
+      "College": "University of Cincinnati"
+    },
+    {
+      "No.": 5,
+      "Player": "Tierre Brown",
+      "Pos": "PG",
+      "Ht": "6-2",
+      "Wt": 189,
+      "Birth Date": "June 3 1979",
+      "Exp": 3,
+      "College": "McNeese State University"
+    },
+    {
+      "No.": 8,
+      "Player": "Kobe Bryant",
+      "Pos": "SG",
+      "Ht": "6-6",
+      "Wt": 212,
+      "Birth Date": "August 23 1978",
+      "Exp": 8,
+      "College": ""
+    },
+    {
+      "No.": 1,
+      "Player": "Caron Butler",
+      "Pos": "SF",
+      "Ht": "6-7",
+      "Wt": 228,
+      "Birth Date": "March 13 1980",
+      "Exp": 2,
+      "College": "University of Connecticut"
+    },
+    {
+      "No.": 43,
+      "Player": "Brian Cook",
+      "Pos": "C",
+      "Ht": "6-9",
+      "Wt": 234,
+      "Birth Date": "December 4 1980",
+      "Exp": 1,
+      "College": "University of Illinois at Urbana-Champaign"
+    },
+    {
+      "No.": 12,
+      "Player": "Vlade Divac",
+      "Pos": "C",
+      "Ht": "7-1",
+      "Wt": 243,
+      "Birth Date": "February 3 1968",
+      "Exp": 15,
+      "College": ""
+    },
+    {
+      "No.": 3,
+      "Player": "Devean George",
+      "Pos": "SF",
+      "Ht": "6-8",
+      "Wt": 220,
+      "Birth Date": "August 29 1977",
+      "Exp": 5,
+      "College": "Augsburg College"
+    },
+    {
+      "No.": 55,
+      "Player": "Brian Grant",
+      "Pos": "C",
+      "Ht": "6-9",
+      "Wt": 254,
+      "Birth Date": "March 5 1972",
+      "Exp": 10,
+      "College": "Xavier University"
+    },
+    {
+      "No.": 20,
+      "Player": "Jumaine Jones",
+      "Pos": "SF",
+      "Ht": "6-8",
+      "Wt": 218,
+      "Birth Date": "February 10 1979",
+      "Exp": 5,
+      "College": "University of Georgia"
+    },
+    {
+      "No.": 14,
+      "Player": "Stanislav Medvedenko",
+      "Pos": "PF",
+      "Ht": "6-10",
+      "Wt": 250,
+      "Birth Date": "April 4 1979",
+      "Exp": 4,
+      "College": ""
+    },
+    {
+      "No.": 31,
+      "Player": "Chris Mihm",
+      "Pos": "C",
+      "Ht": "7-0",
+      "Wt": 265,
+      "Birth Date": "July 16 1979",
+      "Exp": 4,
+      "College": "University of Texas at Austin"
+    },
+    {
+      "No.": 7,
+      "Player": "Lamar Odom",
+      "Pos": "PF",
+      "Ht": "6-10",
+      "Wt": 220,
+      "Birth Date": "November 6 1979",
+      "Exp": 5,
+      "College": "University of Rhode Island"
+    },
+    {
+      "No.": 21,
+      "Player": "Kareem Rush",
+      "Pos": "SG",
+      "Ht": "6-6",
+      "Wt": 215,
+      "Birth Date": "October 30 1980",
+      "Exp": 2,
+      "College": "University of Missouri"
+    },
+    {
+      "No.": 18,
+      "Player": "Sasha Vujacic",
+      "Pos": "SG",
+      "Ht": "6-7",
+      "Wt": 195,
+      "Birth Date": "March 8 1984",
+      "Exp": "R",
+      "College": ""
+    },
+    {
+      "No.": 4,
+      "Player": "Luke Walton",
+      "Pos": "SF",
+      "Ht": "6-8",
+      "Wt": 235,
+      "Birth Date": "March 28 1980",
+      "Exp": 1,
+      "College": "University of Arizona"
+    }
+  ]
+}

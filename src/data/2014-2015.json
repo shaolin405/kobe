@@ -1,0 +1,186 @@
+{
+  "record": "21-61",
+  "coach": "Byron Scott",
+  "roster": [
+    {
+      "No.": 28,
+      "Player": "Tarik Black",
+      "Pos": "C",
+      "Ht": "6-9",
+      "Wt": 250,
+      "Birth Date": "November 22 1991",
+      "Exp": "R",
+      "College": "University of Memphis University of Kansas"
+    },
+    {
+      "No.": 12,
+      "Player": "Vander Blue",
+      "Pos": "SG",
+      "Ht": "6-4",
+      "Wt": 200,
+      "Birth Date": "July 17 1992",
+      "Exp": 1,
+      "College": "Marquette University"
+    },
+    {
+      "No.": 5,
+      "Player": "Carlos Boozer",
+      "Pos": "PF",
+      "Ht": "6-9",
+      "Wt": 258,
+      "Birth Date": "November 20 1981",
+      "Exp": 12,
+      "College": "Duke University"
+    },
+    {
+      "No.": 15,
+      "Player": "Jabari Brown",
+      "Pos": "SG",
+      "Ht": "6-4",
+      "Wt": 215,
+      "Birth Date": "December 18 1992",
+      "Exp": "R",
+      "College": "University of Oregon University of Missouri"
+    },
+    {
+      "No.": 24,
+      "Player": "Kobe Bryant",
+      "Pos": "SG",
+      "Ht": "6-6",
+      "Wt": 212,
+      "Birth Date": "August 23 1978",
+      "Exp": 18,
+      "College": ""
+    },
+    {
+      "No.": 20,
+      "Player": "Dwight Buycks",
+      "Pos": "PG",
+      "Ht": "6-3",
+      "Wt": 190,
+      "Birth Date": "March 6 1989",
+      "Exp": 1,
+      "College": "Marquette University"
+    },
+    {
+      "No.": 6,
+      "Player": "Jordan Clarkson",
+      "Pos": "PG",
+      "Ht": "6-5",
+      "Wt": 194,
+      "Birth Date": "June 7 1992",
+      "Exp": "R",
+      "College": "University of Tulsa University of Missouri"
+    },
+    {
+      "No.": 21,
+      "Player": "Ed Davis",
+      "Pos": "PF",
+      "Ht": "6-10",
+      "Wt": 225,
+      "Birth Date": "June 5 1989",
+      "Exp": 4,
+      "College": "University of North Carolina"
+    },
+    {
+      "No.": 2,
+      "Player": "Wayne Ellington",
+      "Pos": "SG",
+      "Ht": "6-5",
+      "Wt": 200,
+      "Birth Date": "November 29 1987",
+      "Exp": 5,
+      "College": "University of North Carolina"
+    },
+    {
+      "No.": 7,
+      "Player": "Xavier Henry",
+      "Pos": "SF",
+      "Ht": "6-6",
+      "Wt": 220,
+      "Birth Date": "March 15 1991",
+      "Exp": 4,
+      "College": "University of Kansas"
+    },
+    {
+      "No.": 27,
+      "Player": "Jordan Hill",
+      "Pos": "C",
+      "Ht": "6-10",
+      "Wt": 235,
+      "Birth Date": "July 27 1987",
+      "Exp": 5,
+      "College": "University of Arizona"
+    },
+    {
+      "No.": 11,
+      "Player": "Wesley Johnson",
+      "Pos": "SF",
+      "Ht": "6-7",
+      "Wt": 215,
+      "Birth Date": "July 11 1987",
+      "Exp": 4,
+      "College": "Iowa State University Syracuse University"
+    },
+    {
+      "No.": 4,
+      "Player": "Ryan Kelly",
+      "Pos": "PF",
+      "Ht": "6-11",
+      "Wt": 230,
+      "Birth Date": "April 9 1991",
+      "Exp": 1,
+      "College": "Duke University"
+    },
+    {
+      "No.": 17,
+      "Player": "Jeremy Lin",
+      "Pos": "PG",
+      "Ht": "6-3",
+      "Wt": 200,
+      "Birth Date": "August 23 1988",
+      "Exp": 4,
+      "College": "Harvard University"
+    },
+    {
+      "No.": 9,
+      "Player": "Ronnie Price",
+      "Pos": "PG",
+      "Ht": "6-2",
+      "Wt": 190,
+      "Birth Date": "June 21 1983",
+      "Exp": 9,
+      "College": "Nicholls State University Utah Valley State College"
+    },
+    {
+      "No.": 30,
+      "Player": "Julius Randle",
+      "Pos": "PF",
+      "Ht": "6-9",
+      "Wt": 250,
+      "Birth Date": "November 29 1994",
+      "Exp": "R",
+      "College": "University of Kentucky"
+    },
+    {
+      "No.": 50,
+      "Player": "Robert Sacre",
+      "Pos": "C",
+      "Ht": "7-0",
+      "Wt": 270,
+      "Birth Date": "June 6 1989",
+      "Exp": 2,
+      "College": "Gonzaga University"
+    },
+    {
+      "No.": 0,
+      "Player": "Nick Young",
+      "Pos": "SG",
+      "Ht": "6-7",
+      "Wt": 210,
+      "Birth Date": "June 1 1985",
+      "Exp": 7,
+      "College": "University of Southern California"
+    }
+  ]
+}

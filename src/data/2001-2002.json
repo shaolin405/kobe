@@ -1,0 +1,156 @@
+{
+  "record": "58-24",
+  "coach": "Phil Jackson",
+  "roster": [
+    {
+      "No.": 8,
+      "Player": "Kobe Bryants",
+      "Pos": "SG",
+      "Ht": "6-6",
+      "Wt": 212,
+      "Birth Date": "August 23 1978",
+      "Exp": 5,
+      "College": ""
+    },
+    {
+      "No.": 11,
+      "Player": "Joe Crispins",
+      "Pos": "PG",
+      "Ht": "6-0",
+      "Wt": 185,
+      "Birth Date": "July 18 1979",
+      "Exp": "R",
+      "College": "Pennsylvania State University"
+    },
+    {
+      "No.": 2,
+      "Player": "Derek Fishers",
+      "Pos": "PG",
+      "Ht": "6-1",
+      "Wt": 200,
+      "Birth Date": "August 9 1974",
+      "Exp": 5,
+      "College": "University of Arkansas at Little Rock"
+    },
+    {
+      "No.": 17,
+      "Player": "Rick Foxs",
+      "Pos": "SF",
+      "Ht": "6-7",
+      "Wt": 230,
+      "Birth Date": "July 24 1969",
+      "Exp": 10,
+      "College": "University of North Carolina"
+    },
+    {
+      "No.": 3,
+      "Player": "Devean Georges",
+      "Pos": "SF",
+      "Ht": "6-8",
+      "Wt": 220,
+      "Birth Date": "August 29 1977",
+      "Exp": 2,
+      "College": "Augsburg College"
+    },
+    {
+      "No.": 5,
+      "Player": "Robert Horrys",
+      "Pos": "PF",
+      "Ht": "6-9",
+      "Wt": 220,
+      "Birth Date": "August 25 1970",
+      "Exp": 9,
+      "College": "University of Alabama"
+    },
+    {
+      "No.": 10,
+      "Player": "Lindsey Hunters",
+      "Pos": "PG",
+      "Ht": "6-2",
+      "Wt": 170,
+      "Birth Date": "December 3 1970",
+      "Exp": 8,
+      "College": "Alcorn State University Jackson State University"
+    },
+    {
+      "No.": 35,
+      "Player": "Mark Madsens",
+      "Pos": "PF",
+      "Ht": "6-9",
+      "Wt": 240,
+      "Birth Date": "January 28 1976",
+      "Exp": 1,
+      "College": "Stanford University"
+    },
+    {
+      "No.": 6,
+      "Player": "Jelani McCoys",
+      "Pos": "C",
+      "Ht": "6-10",
+      "Wt": 245,
+      "Birth Date": "December 6 1977",
+      "Exp": 3,
+      "College": "University of California Los Angeles"
+    },
+    {
+      "No.": 14,
+      "Player": "Stanislav Medvedenkos",
+      "Pos": "C",
+      "Ht": "6-10",
+      "Wt": 250,
+      "Birth Date": "April 4 1979",
+      "Exp": 1,
+      "College": ""
+    },
+    {
+      "No.": 34,
+      "Player": "Shaquille O'Neals",
+      "Pos": "C",
+      "Ht": "7-1",
+      "Wt": 325,
+      "Birth Date": "March 6 1972",
+      "Exp": 9,
+      "College": "Louisiana State University"
+    },
+    {
+      "No.": 12,
+      "Player": "Mike Penberthys",
+      "Pos": "PG",
+      "Ht": "6-3",
+      "Wt": 185,
+      "Birth Date": "November 29 1974",
+      "Exp": 1,
+      "College": "Master's College"
+    },
+    {
+      "No.": 23,
+      "Player": "Mitch Richmonds",
+      "Pos": "SG",
+      "Ht": "6-5",
+      "Wt": 215,
+      "Birth Date": "June 30 1965",
+      "Exp": 13,
+      "College": "Kansas State University"
+    },
+    {
+      "No.": 20,
+      "Player": "Brian Shaws",
+      "Pos": "PG",
+      "Ht": "6-6",
+      "Wt": 190,
+      "Birth Date": "March 22 1966",
+      "Exp": 12,
+      "College": "Saint Mary's College of California University of California Santa Barbara"
+    },
+    {
+      "No.": 52,
+      "Player": "Samaki Walkers",
+      "Pos": "PF",
+      "Ht": "6-9",
+      "Wt": 240,
+      "Birth Date": "February 25 1976",
+      "Exp": 5,
+      "College": "University of Louisville"
+    }
+  ]
+}

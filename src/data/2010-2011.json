@@ -1,0 +1,166 @@
+{
+  "record": "57-25",
+  "coach": "Phil Jackson",
+  "roster": [
+    {
+      "No.": 9,
+      "Player": "Matt Barnes",
+      "Pos": "SF",
+      "Ht": "6-7",
+      "Wt": 226,
+      "Birth Date": "March 9 1980",
+      "Exp": 7,
+      "College": "University of California Los Angeles"
+    },
+    {
+      "No.": 5,
+      "Player": "Steve Blake",
+      "Pos": "PG",
+      "Ht": "6-3",
+      "Wt": 172,
+      "Birth Date": "February 26 1980",
+      "Exp": 7,
+      "College": "University of Maryland"
+    },
+    {
+      "No.": 12,
+      "Player": "Shannon Brown",
+      "Pos": "SG",
+      "Ht": "6-4",
+      "Wt": 205,
+      "Birth Date": "November 29 1985",
+      "Exp": 4,
+      "College": "Michigan State University"
+    },
+    {
+      "No.": 24,
+      "Player": "Kobe Bryant",
+      "Pos": "SG",
+      "Ht": "6-6",
+      "Wt": 212,
+      "Birth Date": "August 23 1978",
+      "Exp": 14,
+      "College": ""
+    },
+    {
+      "No.": 17,
+      "Player": "Andrew Bynum",
+      "Pos": "C",
+      "Ht": "7-0",
+      "Wt": 285,
+      "Birth Date": "October 27 1987",
+      "Exp": 5,
+      "College": ""
+    },
+    {
+      "No.": 45,
+      "Player": "Derrick Caracter",
+      "Pos": "C",
+      "Ht": "6-9",
+      "Wt": 275,
+      "Birth Date": "May 4 1988",
+      "Exp": "R",
+      "College": "University of Louisville University of Texas at El Paso"
+    },
+    {
+      "No.": 3,
+      "Player": "Devin Ebanks",
+      "Pos": "SG",
+      "Ht": "6-9",
+      "Wt": 215,
+      "Birth Date": "October 28 1989",
+      "Exp": "R",
+      "College": "West Virginia University"
+    },
+    {
+      "No.": 2,
+      "Player": "Derek Fisher",
+      "Pos": "PG",
+      "Ht": "6-1",
+      "Wt": 200,
+      "Birth Date": "August 9 1974",
+      "Exp": 14,
+      "College": "University of Arkansas at Little Rock"
+    },
+    {
+      "No.": 16,
+      "Player": "Pau Gasol",
+      "Pos": "C",
+      "Ht": "7-0",
+      "Wt": 250,
+      "Birth Date": "July 6 1980",
+      "Exp": 9,
+      "College": ""
+    },
+    {
+      "No.": 10,
+      "Player": "Trey Johnson",
+      "Pos": "SG",
+      "Ht": "6-5",
+      "Wt": 218,
+      "Birth Date": "August 30 1984",
+      "Exp": 1,
+      "College": "Alcorn State University Jackson State University"
+    },
+    {
+      "No.": 7,
+      "Player": "Lamar Odom",
+      "Pos": "PF",
+      "Ht": "6-10",
+      "Wt": 220,
+      "Birth Date": "November 6 1979",
+      "Exp": 11,
+      "College": "University of Rhode Island"
+    },
+    {
+      "No.": 50,
+      "Player": "Theo Ratliff",
+      "Pos": "C",
+      "Ht": "6-10",
+      "Wt": 225,
+      "Birth Date": "April 17 1973",
+      "Exp": 15,
+      "College": "University of Wyoming"
+    },
+    {
+      "No.": 1,
+      "Player": "Joe Smith",
+      "Pos": "PF",
+      "Ht": "6-10",
+      "Wt": 225,
+      "Birth Date": "July 26 1975",
+      "Exp": 15,
+      "College": "University of Maryland"
+    },
+    {
+      "No.": 18,
+      "Player": "Sasha Vujacic",
+      "Pos": "SG",
+      "Ht": "6-7",
+      "Wt": 195,
+      "Birth Date": "March 8 1984",
+      "Exp": 6,
+      "College": ""
+    },
+    {
+      "No.": 4,
+      "Player": "Luke Walton",
+      "Pos": "SF",
+      "Ht": "6-8",
+      "Wt": 235,
+      "Birth Date": "March 28 1980",
+      "Exp": 7,
+      "College": "University of Arizona"
+    },
+    {
+      "No.": 15,
+      "Player": "Metta World Peace",
+      "Pos": "SF",
+      "Ht": "6-6",
+      "Wt": 260,
+      "Birth Date": "November 13 1979",
+      "Exp": 11,
+      "College": "St. John's University"
+    }
+  ]
+}

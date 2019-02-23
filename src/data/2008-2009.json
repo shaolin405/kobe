@@ -1,0 +1,167 @@
+{
+  "record": "65-17",
+  "coach": "Phil Jackson",
+  "championship": "true",
+  "roster": [
+    {
+      "No.": 3,
+      "Player": "Trevor Ariza",
+      "Pos": "SF",
+      "Ht": "6-8",
+      "Wt": 215,
+      "Birth Date": "June 30 1985",
+      "Exp": 4,
+      "College": "University of California Los Angeles"
+    },
+    {
+      "No.": 12,
+      "Player": "Shannon Brown",
+      "Pos": "SG",
+      "Ht": "6-4",
+      "Wt": 205,
+      "Birth Date": "November 29 1985",
+      "Exp": 2,
+      "College": "Michigan State University"
+    },
+    {
+      "No.": 24,
+      "Player": "Kobe Bryant",
+      "Pos": "SG",
+      "Ht": "6-6",
+      "Wt": 212,
+      "Birth Date": "August 23 1978",
+      "Exp": 12,
+      "College": ""
+    },
+    {
+      "No.": 17,
+      "Player": "Andrew Bynum",
+      "Pos": "C",
+      "Ht": "7-0",
+      "Wt": 285,
+      "Birth Date": "October 27 1987",
+      "Exp": 3,
+      "College": ""
+    },
+    {
+      "No.": 5,
+      "Player": "Jordan Farmar",
+      "Pos": "PG",
+      "Ht": "6-2",
+      "Wt": 180,
+      "Birth Date": "November 30 1986",
+      "Exp": 2,
+      "College": "University of California Los Angeles"
+    },
+    {
+      "No.": 2,
+      "Player": "Derek Fisher",
+      "Pos": "PG",
+      "Ht": "6-1",
+      "Wt": 200,
+      "Birth Date": "August 9 1974",
+      "Exp": 12,
+      "College": "University of Arkansas at Little Rock"
+    },
+    {
+      "No.": 16,
+      "Player": "Pau Gasol",
+      "Pos": "C",
+      "Ht": "7-0",
+      "Wt": 250,
+      "Birth Date": "July 6 1980",
+      "Exp": 7,
+      "College": ""
+    },
+    {
+      "No.": 28,
+      "Player": "Didier Ilunga-Mbenga",
+      "Pos": "C",
+      "Ht": "7-0",
+      "Wt": 245,
+      "Birth Date": "December 30 1980",
+      "Exp": 4,
+      "College": ""
+    },
+    {
+      "No.": 31,
+      "Player": "Chris Mihm",
+      "Pos": "C",
+      "Ht": "7-0",
+      "Wt": 265,
+      "Birth Date": "July 16 1979",
+      "Exp": 7,
+      "College": "University of Texas at Austin"
+    },
+    {
+      "No.": 6,
+      "Player": "Adam Morrison",
+      "Pos": "SF",
+      "Ht": "6-8",
+      "Wt": 205,
+      "Birth Date": "July 19 1984",
+      "Exp": 1,
+      "College": "Gonzaga University"
+    },
+    {
+      "No.": 7,
+      "Player": "Lamar Odom",
+      "Pos": "PF",
+      "Ht": "6-10",
+      "Wt": 220,
+      "Birth Date": "November 6 1979",
+      "Exp": 9,
+      "College": "University of Rhode Island"
+    },
+    {
+      "No.": 21,
+      "Player": "Josh Powell",
+      "Pos": "PF",
+      "Ht": "6-9",
+      "Wt": 225,
+      "Birth Date": "January 25 1983",
+      "Exp": 3,
+      "College": "North Carolina State University"
+    },
+    {
+      "No.": 10,
+      "Player": "Vladimir Radmanovic",
+      "Pos": "SF",
+      "Ht": "6-10",
+      "Wt": 227,
+      "Birth Date": "November 19 1980",
+      "Exp": 7,
+      "College": ""
+    },
+    {
+      "No.": 18,
+      "Player": "Sasha Vujacic",
+      "Pos": "SG",
+      "Ht": "6-7",
+      "Wt": 195,
+      "Birth Date": "March 8 1984",
+      "Exp": 4,
+      "College": ""
+    },
+    {
+      "No.": 4,
+      "Player": "Luke Walton",
+      "Pos": "SF",
+      "Ht": "6-8",
+      "Wt": 235,
+      "Birth Date": "March 28 1980",
+      "Exp": 5,
+      "College": "University of Arizona"
+    },
+    {
+      "No.": 9,
+      "Player": "Sun Yue",
+      "Pos": "SG",
+      "Ht": "6-9",
+      "Wt": 205,
+      "Birth Date": "November 6 1985",
+      "Exp": "R",
+      "College": ""
+    }
+  ]
+}

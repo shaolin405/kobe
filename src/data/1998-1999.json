@@ -1,0 +1,177 @@
+{
+  "record": "31-19",
+  "lockout": true,
+  "coach": ["Del Harris", "Bill Bertka", "Kurt Rambis"],
+  "roster": [
+    {
+      "No.": 43,
+      "Player": "Corie Blount",
+      "Pos": "PF",
+      "Ht": "6-9",
+      "Wt": 240,
+      "Birth Date": "January 4 1969",
+      "Exp": 5,
+      "College": "University of Cincinnati"
+    },
+    {
+      "No.": 8,
+      "Player": "Kobe Bryant",
+      "Pos": "SG",
+      "Ht": "6-6",
+      "Wt": 212,
+      "Birth Date": "August 23 1978",
+      "Exp": 2,
+      "College": ""
+    },
+    {
+      "No.": 41,
+      "Player": "Elden Campbell",
+      "Pos": "C",
+      "Ht": "6-11",
+      "Wt": 215,
+      "Birth Date": "July 23 1968",
+      "Exp": 8,
+      "College": "Clemson University"
+    },
+    {
+      "No.": 2,
+      "Player": "Derek Fisher",
+      "Pos": "PG",
+      "Ht": "6-1",
+      "Wt": 200,
+      "Birth Date": "August 9 1974",
+      "Exp": 2,
+      "College": "University of Arkansas at Little Rock"
+    },
+    {
+      "No.": 17,
+      "Player": "Rick Fox",
+      "Pos": "SF",
+      "Ht": "6-7",
+      "Wt": 230,
+      "Birth Date": "July 24 1969",
+      "Exp": 7,
+      "College": "University of North Carolina"
+    },
+    {
+      "No.": 12,
+      "Player": "Derek Harper",
+      "Pos": "PG",
+      "Ht": "6-4",
+      "Wt": 185,
+      "Birth Date": "October 13 1961",
+      "Exp": 15,
+      "College": "University of Illinois at Urbana-Champaign"
+    },
+    {
+      "No.": 5,
+      "Player": "Robert Horry",
+      "Pos": "PF",
+      "Ht": "6-9",
+      "Wt": 220,
+      "Birth Date": "August 25 1970",
+      "Exp": 6,
+      "College": "University of Alabama"
+    },
+    {
+      "No.": 7,
+      "Player": "Sam Jacobson",
+      "Pos": "PG",
+      "Ht": "6-4",
+      "Wt": 215,
+      "Birth Date": "July 22 1975",
+      "Exp": "R",
+      "College": "University of Minnesota"
+    },
+    {
+      "No.": 6,
+      "Player": "Eddie Jones",
+      "Pos": "SG",
+      "Ht": "6-6",
+      "Wt": 190,
+      "Birth Date": "October 20 1971",
+      "Exp": 4,
+      "College": "Temple University"
+    },
+    {
+      "No.": 40,
+      "Player": "Travis Knight",
+      "Pos": "C",
+      "Ht": "7-0",
+      "Wt": 235,
+      "Birth Date": "September 13 1974",
+      "Exp": 2,
+      "College": "University of Connecticut"
+    },
+    {
+      "No.": 10,
+      "Player": "Tyronn Lue",
+      "Pos": "PG",
+      "Ht": "6-0",
+      "Wt": 175,
+      "Birth Date": "May 3 1977",
+      "Exp": "R",
+      "College": "University of Nebraska"
+    },
+    {
+      "No.": 34,
+      "Player": "Shaquille O'Neal",
+      "Pos": "C",
+      "Ht": "7-1",
+      "Wt": 325,
+      "Birth Date": "March 6 1972",
+      "Exp": 6,
+      "College": "Louisiana State University"
+    },
+    {
+      "No.": 21,
+      "Player": "Ruben Patterson",
+      "Pos": "SF",
+      "Ht": "6-5",
+      "Wt": 224,
+      "Birth Date": "July 31 1975",
+      "Exp": "R",
+      "College": "University of Cincinnati"
+    },
+    {
+      "No.": 11,
+      "Player": "J.R. Reid",
+      "Pos": "PF",
+      "Ht": "6-9",
+      "Wt": 247,
+      "Birth Date": "March 31 1968",
+      "Exp": 8,
+      "College": "University of North Carolina"
+    },
+    {
+      "No.": 41,
+      "Player": "Glen Rice",
+      "Pos": "SF",
+      "Ht": "6-7",
+      "Wt": 215,
+      "Birth Date": "May 28 1967",
+      "Exp": 9,
+      "College": "University of Michigan"
+    },
+    {
+      "No.": 73,
+      "Player": "Dennis Rodman",
+      "Pos": "PF",
+      "Ht": "6-7",
+      "Wt": 210,
+      "Birth Date": "May 13 1961",
+      "Exp": 12,
+      "College": "Southeastern Oklahoma State University"
+    },
+    {
+      "No.": 45,
+      "Player": "Sean Rooks",
+      "Pos": "C",
+      "Ht": "6-10",
+      "Wt": 250,
+      "Birth Date": "September 9 1969",
+      "Exp": 6,
+      "College": "University of Arizona"
+    }
+  ]
+}

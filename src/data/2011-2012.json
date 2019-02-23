@@ -1,0 +1,177 @@
+{
+  "record": "41-25",
+  "lockout": true,
+  "coach": "Mike Brown",
+  "roster": [
+    {
+      "No.": 9,
+      "Player": "Matt Barnes",
+      "Pos": "SF",
+      "Ht": "6-7",
+      "Wt": 226,
+      "Birth Date": "March 9 1980",
+      "Exp": 8,
+      "College": "University of California Los Angeles"
+    },
+    {
+      "No.": 5,
+      "Player": "Steve Blake",
+      "Pos": "PG",
+      "Ht": "6-3",
+      "Wt": 172,
+      "Birth Date": "February 26 1980",
+      "Exp": 8,
+      "College": "University of Maryland"
+    },
+    {
+      "No.": 24,
+      "Player": "Kobe Bryant",
+      "Pos": "SG",
+      "Ht": "6-6",
+      "Wt": 212,
+      "Birth Date": "August 23 1978",
+      "Exp": 15,
+      "College": ""
+    },
+    {
+      "No.": 17,
+      "Player": "Andrew Bynum",
+      "Pos": "C",
+      "Ht": "7-0",
+      "Wt": 285,
+      "Birth Date": "October 27 1987",
+      "Exp": 6,
+      "College": ""
+    },
+    {
+      "No.": 3,
+      "Player": "Devin Ebanks",
+      "Pos": "SG",
+      "Ht": "6-9",
+      "Wt": 215,
+      "Birth Date": "October 28 1989",
+      "Exp": 1,
+      "College": "West Virginia University"
+    },
+    {
+      "No.": 88,
+      "Player": "Christian Eyenga",
+      "Pos": "SF",
+      "Ht": "6-5",
+      "Wt": 210,
+      "Birth Date": "June 22 1989",
+      "Exp": 1,
+      "College": ""
+    },
+    {
+      "No.": 2,
+      "Player": "Derek Fisher",
+      "Pos": "PG",
+      "Ht": "6-1",
+      "Wt": 200,
+      "Birth Date": "August 9 1974",
+      "Exp": 15,
+      "College": "University of Arkansas at Little Rock"
+    },
+    {
+      "No.": 16,
+      "Player": "Pau Gasol",
+      "Pos": "PF",
+      "Ht": "7-0",
+      "Wt": 250,
+      "Birth Date": "July 6 1980",
+      "Exp": 10,
+      "College": ""
+    },
+    {
+      "No.": 0,
+      "Player": "Andrew Goudelock",
+      "Pos": "SG",
+      "Ht": "6-3",
+      "Wt": 200,
+      "Birth Date": "December 7 1988",
+      "Exp": "R",
+      "College": "College of Charleston"
+    },
+    {
+      "No.": 27,
+      "Player": "Jordan Hill",
+      "Pos": "C",
+      "Ht": "6-10",
+      "Wt": 235,
+      "Birth Date": "July 27 1987",
+      "Exp": 2,
+      "College": "University of Arizona"
+    },
+    {
+      "No.": 28,
+      "Player": "Jason Kapono",
+      "Pos": "SG",
+      "Ht": "6-8",
+      "Wt": 213,
+      "Birth Date": "February 4 1981",
+      "Exp": 8,
+      "College": "University of California Los Angeles"
+    },
+    {
+      "No.": 6,
+      "Player": "Josh McRoberts",
+      "Pos": "PF",
+      "Ht": "6-10",
+      "Wt": 240,
+      "Birth Date": "February 28 1987",
+      "Exp": 4,
+      "College": "Duke University"
+    },
+    {
+      "No.": 1,
+      "Player": "Darius Morris",
+      "Pos": "PG",
+      "Ht": "6-4",
+      "Wt": 190,
+      "Birth Date": "January 3 1991",
+      "Exp": "R",
+      "College": "University of Michigan"
+    },
+    {
+      "No.": 14,
+      "Player": "Troy Murphy",
+      "Pos": "PF",
+      "Ht": "6-11",
+      "Wt": 245,
+      "Birth Date": "May 2 1980",
+      "Exp": 10,
+      "College": "University of Notre Dame"
+    },
+    {
+      "No.": 7,
+      "Player": "Ramon Sessions",
+      "Pos": "PG",
+      "Ht": "6-3",
+      "Wt": 190,
+      "Birth Date": "April 11 1986",
+      "Exp": 4,
+      "College": "University of Nevada Reno"
+    },
+    {
+      "No.": 4,
+      "Player": "Luke Walton",
+      "Pos": "SF",
+      "Ht": "6-8",
+      "Wt": 235,
+      "Birth Date": "March 28 1980",
+      "Exp": 8,
+      "College": "University of Arizona"
+    },
+    {
+      "No.": 15,
+      "Player": "Metta World Peace",
+      "Pos": "SF",
+      "Ht": "6-6",
+      "Wt": 260,
+      "Birth Date": "November 13 1979",
+      "Exp": 12,
+      "College": "St. John's University"
+    }
+  ]
+}

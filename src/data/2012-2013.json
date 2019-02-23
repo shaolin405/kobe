@@ -1,0 +1,166 @@
+{
+  "record": "45-37",
+  "coach": ["Mike Brown", "Bernie Bickerstaff", "Mike D'Antoni"],
+  "roster": [
+    {
+      "No.": 5,
+      "Player": "Steve Blake",
+      "Pos": "PG",
+      "Ht": "6-3",
+      "Wt": 172,
+      "Birth Date": "February 26 1980",
+      "Exp": 9,
+      "College": "University of Maryland"
+    },
+    {
+      "No.": 24,
+      "Player": "Kobe Bryant",
+      "Pos": "SG",
+      "Ht": "6-6",
+      "Wt": 212,
+      "Birth Date": "August 23 1978",
+      "Exp": 16,
+      "College": ""
+    },
+    {
+      "No.": 6,
+      "Player": "Earl Clark",
+      "Pos": "PF",
+      "Ht": "6-10",
+      "Wt": 225,
+      "Birth Date": "January 17 1988",
+      "Exp": 3,
+      "College": "University of Louisville"
+    },
+    {
+      "No.": 21,
+      "Player": "Chris Duhon",
+      "Pos": "PG",
+      "Ht": "6-1",
+      "Wt": 185,
+      "Birth Date": "August 31 1982",
+      "Exp": 8,
+      "College": "Duke University"
+    },
+    {
+      "No.": 3,
+      "Player": "Devin Ebanks",
+      "Pos": "SF",
+      "Ht": "6-9",
+      "Wt": 215,
+      "Birth Date": "October 28 1989",
+      "Exp": 2,
+      "College": "West Virginia University"
+    },
+    {
+      "No.": 16,
+      "Player": "Pau Gasol",
+      "Pos": "PF",
+      "Ht": "7-0",
+      "Wt": 250,
+      "Birth Date": "July 6 1980",
+      "Exp": 11,
+      "College": ""
+    },
+    {
+      "No.": 0,
+      "Player": "Andrew Goudelock",
+      "Pos": "SG",
+      "Ht": "6-3",
+      "Wt": 200,
+      "Birth Date": "December 7 1988",
+      "Exp": 1,
+      "College": "College of Charleston"
+    },
+    {
+      "No.": 27,
+      "Player": "Jordan Hill",
+      "Pos": "PF",
+      "Ht": "6-10",
+      "Wt": 235,
+      "Birth Date": "July 27 1987",
+      "Exp": 3,
+      "College": "University of Arizona"
+    },
+    {
+      "No.": 12,
+      "Player": "Dwight Howard",
+      "Pos": "C",
+      "Ht": "6-11",
+      "Wt": 265,
+      "Birth Date": "December 8 1985",
+      "Exp": 8,
+      "College": ""
+    },
+    {
+      "No.": 4,
+      "Player": "Antawn Jamison",
+      "Pos": "PF",
+      "Ht": "6-8",
+      "Wt": 223,
+      "Birth Date": "June 12 1976",
+      "Exp": 14,
+      "College": "University of North Carolina"
+    },
+    {
+      "No.": 7,
+      "Player": "Darius Johnson-Odom",
+      "Pos": "SG",
+      "Ht": "6-2",
+      "Wt": 215,
+      "Birth Date": "September 28 1989",
+      "Exp": "R",
+      "College": "Marquette University"
+    },
+    {
+      "No.": 20,
+      "Player": "Jodie Meeks",
+      "Pos": "SG",
+      "Ht": "6-4",
+      "Wt": 210,
+      "Birth Date": "August 21 1987",
+      "Exp": 3,
+      "College": "University of Kentucky"
+    },
+    {
+      "No.": 1,
+      "Player": "Darius Morris",
+      "Pos": "PG",
+      "Ht": "6-4",
+      "Wt": 190,
+      "Birth Date": "January 3 1991",
+      "Exp": 1,
+      "College": "University of Michigan"
+    },
+    {
+      "No.": 10,
+      "Player": "Steve Nash",
+      "Pos": "PG",
+      "Ht": "6-3",
+      "Wt": 195,
+      "Birth Date": "February 7 1974",
+      "Exp": 16,
+      "College": "Santa Clara University"
+    },
+    {
+      "No.": 50,
+      "Player": "Robert Sacre",
+      "Pos": "C",
+      "Ht": "7-0",
+      "Wt": 270,
+      "Birth Date": "June 6 1989",
+      "Exp": "R",
+      "College": "Gonzaga University"
+    },
+    {
+      "No.": 15,
+      "Player": "Metta World Peace",
+      "Pos": "SF",
+      "Ht": "6-6",
+      "Wt": 260,
+      "Birth Date": "November 13 1979",
+      "Exp": 13,
+      "College": "St. John's University"
+    }
+  ]
+}

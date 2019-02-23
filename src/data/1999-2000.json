@@ -1,0 +1,156 @@
+{
+  "record": "67-15",
+  "coach": "Phil Jackson",
+  "roster": [
+    {
+      "No.": 8,
+      "Player": "Kobe Bryant",
+      "Pos": "SG",
+      "Ht": "6-6",
+      "Wt": 212,
+      "Birth Date": "August 23 1978",
+      "Exp": 3,
+      "College": ""
+    },
+    {
+      "No.": 11,
+      "Player": "John Celestand",
+      "Pos": "PG",
+      "Ht": "6-4",
+      "Wt": 178,
+      "Birth Date": "March 6 1977",
+      "Exp": "R",
+      "College": "Villanova University"
+    },
+    {
+      "No.": 2,
+      "Player": "Derek Fisher",
+      "Pos": "PG",
+      "Ht": "6-1",
+      "Wt": 200,
+      "Birth Date": "August 9 1974",
+      "Exp": 3,
+      "College": "University of Arkansas at Little Rock"
+    },
+    {
+      "No.": 17,
+      "Player": "Rick Fox",
+      "Pos": "SF",
+      "Ht": "6-7",
+      "Wt": 230,
+      "Birth Date": "July 24 1969",
+      "Exp": 8,
+      "College": "University of North Carolina"
+    },
+    {
+      "No.": 3,
+      "Player": "Devean George",
+      "Pos": "SF",
+      "Ht": "6-8",
+      "Wt": 220,
+      "Birth Date": "August 29 1977",
+      "Exp": "R",
+      "College": "Augsburg College"
+    },
+    {
+      "No.": 45,
+      "Player": "A.C. Green",
+      "Pos": "PF",
+      "Ht": "6-9",
+      "Wt": 220,
+      "Birth Date": "October 4 1963",
+      "Exp": 14,
+      "College": "Oregon State University"
+    },
+    {
+      "No.": 4,
+      "Player": "Ron Harper",
+      "Pos": "PG",
+      "Ht": "6-6",
+      "Wt": 185,
+      "Birth Date": "January 20 1964",
+      "Exp": 13,
+      "College": "Miami University"
+    },
+    {
+      "No.": 5,
+      "Player": "Robert Horry",
+      "Pos": "PF",
+      "Ht": "6-9",
+      "Wt": 220,
+      "Birth Date": "August 25 1970",
+      "Exp": 7,
+      "College": "University of Alabama"
+    },
+    {
+      "No.": 7,
+      "Player": "Sam Jacobson",
+      "Pos": "PG",
+      "Ht": "6-4",
+      "Wt": 215,
+      "Birth Date": "July 22 1975",
+      "Exp": 1,
+      "College": "University of Minnesota"
+    },
+    {
+      "No.": 40,
+      "Player": "Travis Knight",
+      "Pos": "C",
+      "Ht": "7-0",
+      "Wt": 235,
+      "Birth Date": "September 13 1974",
+      "Exp": 3,
+      "College": "University of Connecticut"
+    },
+    {
+      "No.": 10,
+      "Player": "Tyronn Lue",
+      "Pos": "PG",
+      "Ht": "6-0",
+      "Wt": 175,
+      "Birth Date": "May 3 1977",
+      "Exp": 1,
+      "College": "University of Nebraska"
+    },
+    {
+      "No.": 34,
+      "Player": "Shaquille O'Neal",
+      "Pos": "C",
+      "Ht": "7-1",
+      "Wt": 325,
+      "Birth Date": "March 6 1972",
+      "Exp": 7,
+      "College": "Louisiana State University"
+    },
+    {
+      "No.": 41,
+      "Player": "Glen Rice",
+      "Pos": "SF",
+      "Ht": "6-7",
+      "Wt": 215,
+      "Birth Date": "May 28 1967",
+      "Exp": 10,
+      "College": "University of Michigan"
+    },
+    {
+      "No.": 16,
+      "Player": "John Salley",
+      "Pos": "C",
+      "Ht": "6-11",
+      "Wt": 230,
+      "Birth Date": "May 16 1964",
+      "Exp": 10,
+      "College": "Georgia Institute of Technology"
+    },
+    {
+      "No.": 20,
+      "Player": "Brian Shaw",
+      "Pos": "SG",
+      "Ht": "6-6",
+      "Wt": 190,
+      "Birth Date": "March 22 1966",
+      "Exp": 10,
+      "College": "Saint Mary's College of California University of California Santa Barbara"
+    }
+  ]
+}

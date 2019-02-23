@@ -1,0 +1,156 @@
+{
+  "record": "17-65",
+  "coach": "Byron Scott",
+  "roster": [
+    {
+      "No.": 2,
+      "Player": "Brandon Bass",
+      "Pos": "PF",
+      "Ht": "6-8",
+      "Wt": 250,
+      "Birth Date": "April 30 1985",
+      "Exp": 10,
+      "College": "Louisiana State University"
+    },
+    {
+      "No.": 28,
+      "Player": "Tarik Black",
+      "Pos": "C",
+      "Ht": "6-9",
+      "Wt": 250,
+      "Birth Date": "November 22 1991",
+      "Exp": 1,
+      "College": "University of Memphis University of Kansas"
+    },
+    {
+      "No.": 3,
+      "Player": "Anthony Brown",
+      "Pos": "SF",
+      "Ht": "6-7",
+      "Wt": 210,
+      "Birth Date": "October 10 1992",
+      "Exp": "R",
+      "College": "Stanford University"
+    },
+    {
+      "No.": 24,
+      "Player": "Kobe Bryant",
+      "Pos": "SF",
+      "Ht": "6-6",
+      "Wt": 212,
+      "Birth Date": "August 23 1978",
+      "Exp": 19,
+      "College": ""
+    },
+    {
+      "No.": 6,
+      "Player": "Jordan Clarkson",
+      "Pos": "SG",
+      "Ht": "6-5",
+      "Wt": 194,
+      "Birth Date": "June 7 1992",
+      "Exp": 1,
+      "College": "University of Tulsa University of Missouri"
+    },
+    {
+      "No.": 17,
+      "Player": "Roy Hibbert",
+      "Pos": "C",
+      "Ht": "7-2",
+      "Wt": 270,
+      "Birth Date": "December 11 1986",
+      "Exp": 7,
+      "College": "Georgetown University"
+    },
+    {
+      "No.": 9,
+      "Player": "Marcelo Huertas",
+      "Pos": "PG",
+      "Ht": "6-3",
+      "Wt": 200,
+      "Birth Date": "May 25 1983",
+      "Exp": "R",
+      "College": ""
+    },
+    {
+      "No.": 4,
+      "Player": "Ryan Kelly",
+      "Pos": "PF",
+      "Ht": "6-11",
+      "Wt": 230,
+      "Birth Date": "April 9 1991",
+      "Exp": 2,
+      "College": "Duke University"
+    },
+    {
+      "No.": 7,
+      "Player": "Larry Nance",
+      "Pos": "PF",
+      "Ht": "6-9",
+      "Wt": 230,
+      "Birth Date": "January 1 1993",
+      "Exp": "R",
+      "College": "University of Wyoming"
+    },
+    {
+      "No.": 30,
+      "Player": "Julius Randle",
+      "Pos": "PF",
+      "Ht": "6-9",
+      "Wt": 250,
+      "Birth Date": "November 29 1994",
+      "Exp": 1,
+      "College": "University of Kentucky"
+    },
+    {
+      "No.": 1,
+      "Player": "D'Angelo Russell",
+      "Pos": "PG",
+      "Ht": "6-5",
+      "Wt": 198,
+      "Birth Date": "February 23 1996",
+      "Exp": "R",
+      "College": "Ohio State University"
+    },
+    {
+      "No.": 50,
+      "Player": "Robert Sacre",
+      "Pos": "C",
+      "Ht": "7-0",
+      "Wt": 270,
+      "Birth Date": "June 6 1989",
+      "Exp": 3,
+      "College": "Gonzaga University"
+    },
+    {
+      "No.": 23,
+      "Player": "Lou Williams",
+      "Pos": "SG",
+      "Ht": "6-1",
+      "Wt": 175,
+      "Birth Date": "October 27 1986",
+      "Exp": 10,
+      "College": ""
+    },
+    {
+      "No.": 37,
+      "Player": "Metta World Peace",
+      "Pos": "SF",
+      "Ht": "6-6",
+      "Wt": 260,
+      "Birth Date": "November 13 1979",
+      "Exp": 15,
+      "College": "St. John's University"
+    },
+    {
+      "No.": 0,
+      "Player": "Nick Young",
+      "Pos": "SG",
+      "Ht": "6-7",
+      "Wt": 210,
+      "Birth Date": "June 1 1985",
+      "Exp": 8,
+      "College": "University of Southern California"
+    }
+  ]
+}

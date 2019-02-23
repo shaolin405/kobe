@@ -1,0 +1,176 @@
+{
+  "record": "45-37",
+  "coach": "Phil Jackson",
+  "roster": [
+    {
+      "No.": 54,
+      "Player": "Kwame Brown",
+      "Pos": "C",
+      "Ht": "6-11",
+      "Wt": 270,
+      "Birth Date": "March 10 1982",
+      "Exp": 4,
+      "College": ""
+    },
+    {
+      "No.": 8,
+      "Player": "Kobe Bryant",
+      "Pos": "SG",
+      "Ht": "6-6",
+      "Wt": 212,
+      "Birth Date": "August 23 1978",
+      "Exp": 9,
+      "College": ""
+    },
+    {
+      "No.": 17,
+      "Player": "Andrew Bynum",
+      "Pos": "C",
+      "Ht": "7-0",
+      "Wt": 285,
+      "Birth Date": "October 27 1987",
+      "Exp": "R",
+      "College": ""
+    },
+    {
+      "No.": 43,
+      "Player": "Brian Cook",
+      "Pos": "PF",
+      "Ht": "6-9",
+      "Wt": 234,
+      "Birth Date": "December 4 1980",
+      "Exp": 2,
+      "College": "University of Illinois at Urbana-Champaign"
+    },
+    {
+      "No.": 3,
+      "Player": "Devean George",
+      "Pos": "SF",
+      "Ht": "6-8",
+      "Wt": 220,
+      "Birth Date": "August 29 1977",
+      "Exp": 6,
+      "College": "Augsburg College"
+    },
+    {
+      "No.": 11,
+      "Player": "Devin Green",
+      "Pos": "SG",
+      "Ht": "6-7",
+      "Wt": 210,
+      "Birth Date": "October 25 1982",
+      "Exp": "R",
+      "College": "Hampton University"
+    },
+    {
+      "No.": 24,
+      "Player": "Jim Jackson",
+      "Pos": "SF",
+      "Ht": "6-6",
+      "Wt": 220,
+      "Birth Date": "October 14 1970",
+      "Exp": 13,
+      "College": "Ohio State University"
+    },
+    {
+      "No.": 2,
+      "Player": "Aaron McKie",
+      "Pos": "PG",
+      "Ht": "6-5",
+      "Wt": 209,
+      "Birth Date": "October 2 1972",
+      "Exp": 11,
+      "College": "Temple University"
+    },
+    {
+      "No.": 14,
+      "Player": "Stanislav Medvedenko",
+      "Pos": "PF",
+      "Ht": "6-10",
+      "Wt": 250,
+      "Birth Date": "April 4 1979",
+      "Exp": 5,
+      "College": ""
+    },
+    {
+      "No.": 31,
+      "Player": "Chris Mihm",
+      "Pos": "C",
+      "Ht": "7-0",
+      "Wt": 265,
+      "Birth Date": "July 16 1979",
+      "Exp": 5,
+      "College": "University of Texas at Austin"
+    },
+    {
+      "No.": 7,
+      "Player": "Lamar Odom",
+      "Pos": "PF",
+      "Ht": "6-10",
+      "Wt": 220,
+      "Birth Date": "November 6 1979",
+      "Exp": 6,
+      "College": "University of Rhode Island"
+    },
+    {
+      "No.": 1,
+      "Player": "Smush Parker",
+      "Pos": "PG",
+      "Ht": "6-4",
+      "Wt": 190,
+      "Birth Date": "June 1 1981",
+      "Exp": 2,
+      "College": "Fordham University"
+    },
+    {
+      "No.": 9,
+      "Player": "Laron Profit",
+      "Pos": "SG",
+      "Ht": "6-5",
+      "Wt": 204,
+      "Birth Date": "August 5 1977",
+      "Exp": 3,
+      "College": "University of Maryland"
+    },
+    {
+      "No.": 21,
+      "Player": "Ronny Turiaf",
+      "Pos": "C",
+      "Ht": "6-10",
+      "Wt": 249,
+      "Birth Date": "January 13 1983",
+      "Exp": "R",
+      "College": "Gonzaga University"
+    },
+    {
+      "No.": 18,
+      "Player": "Sasha Vujacic",
+      "Pos": "PG",
+      "Ht": "6-7",
+      "Wt": 195,
+      "Birth Date": "March 8 1984",
+      "Exp": 1,
+      "College": ""
+    },
+    {
+      "No.": 23,
+      "Player": "Von Wafer",
+      "Pos": "SG",
+      "Ht": "6-5",
+      "Wt": 210,
+      "Birth Date": "July 21 1985",
+      "Exp": "R",
+      "College": "Florida State University"
+    },
+    {
+      "No.": 4,
+      "Player": "Luke Walton",
+      "Pos": "SF",
+      "Ht": "6-8",
+      "Wt": 235,
+      "Birth Date": "March 28 1980",
+      "Exp": 2,
+      "College": "University of Arizona"
+    }
+  ]
+}

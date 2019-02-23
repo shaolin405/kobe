@@ -1,0 +1,196 @@
+{
+  "record": "57-25",
+  "coach": "Phil Jackson",
+  "roster": [
+    {
+      "No.": 3,
+      "Player": "Trevor Ariza",
+      "Pos": "SF",
+      "Ht": "6-8",
+      "Wt": 215,
+      "Birth Date": "June 30 1985",
+      "Exp": 3,
+      "College": "University of California Los Angeles"
+    },
+    {
+      "No.": 54,
+      "Player": "Kwame Brown",
+      "Pos": "C",
+      "Ht": "6-11",
+      "Wt": 270,
+      "Birth Date": "March 10 1982",
+      "Exp": 6,
+      "College": ""
+    },
+    {
+      "No.": 24,
+      "Player": "Kobe Bryant",
+      "Pos": "SG",
+      "Ht": "6-6",
+      "Wt": 212,
+      "Birth Date": "August 23 1978",
+      "Exp": 11,
+      "College": ""
+    },
+    {
+      "No.": 17,
+      "Player": "Andrew Bynum",
+      "Pos": "C",
+      "Ht": "7-0",
+      "Wt": 285,
+      "Birth Date": "October 27 1987",
+      "Exp": 2,
+      "College": ""
+    },
+    {
+      "No.": 43,
+      "Player": "Brian Cook",
+      "Pos": "PF",
+      "Ht": "6-9",
+      "Wt": 234,
+      "Birth Date": "December 4 1980",
+      "Exp": 4,
+      "College": "University of Illinois at Urbana-Champaign"
+    },
+    {
+      "No.": 1,
+      "Player": "Javaris Crittenton",
+      "Pos": "SG",
+      "Ht": "6-5",
+      "Wt": 200,
+      "Birth Date": "December 31 1987",
+      "Exp": "R",
+      "College": "Georgia Institute of Technology"
+    },
+    {
+      "No.": 6,
+      "Player": "Maurice Evans",
+      "Pos": "SG",
+      "Ht": "6-5",
+      "Wt": 220,
+      "Birth Date": "November 8 1978",
+      "Exp": 4,
+      "College": "Wichita State University University of Texas at Austin"
+    },
+    {
+      "No.": 5,
+      "Player": "Jordan Farmar",
+      "Pos": "PG",
+      "Ht": "6-2",
+      "Wt": 180,
+      "Birth Date": "November 30 1986",
+      "Exp": 1,
+      "College": "University of California Los Angeles"
+    },
+    {
+      "No.": 2,
+      "Player": "Derek Fisher",
+      "Pos": "PG",
+      "Ht": "6-1",
+      "Wt": 200,
+      "Birth Date": "August 9 1974",
+      "Exp": 11,
+      "College": "University of Arkansas at Little Rock"
+    },
+    {
+      "No.": 16,
+      "Player": "Pau Gasol",
+      "Pos": "C",
+      "Ht": "7-0",
+      "Wt": 250,
+      "Birth Date": "July 6 1980",
+      "Exp": 6,
+      "College": ""
+    },
+    {
+      "No.": 28,
+      "Player": "Didier Ilunga-Mbenga",
+      "Pos": "C",
+      "Ht": "7-0",
+      "Wt": 245,
+      "Birth Date": "December 30 1980",
+      "Exp": 3,
+      "College": ""
+    },
+    {
+      "No.": 11,
+      "Player": "Coby Karl",
+      "Pos": "SG",
+      "Ht": "6-5",
+      "Wt": 215,
+      "Birth Date": "March 6 1983",
+      "Exp": "R",
+      "College": "Boise State University"
+    },
+    {
+      "No.": 31,
+      "Player": "Chris Mihm",
+      "Pos": "C",
+      "Ht": "7-0",
+      "Wt": 265,
+      "Birth Date": "July 16 1979",
+      "Exp": 6,
+      "College": "University of Texas at Austin"
+    },
+    {
+      "No.": 14,
+      "Player": "Ira Newble",
+      "Pos": "SF",
+      "Ht": "6-7",
+      "Wt": 220,
+      "Birth Date": "January 20 1975",
+      "Exp": 7,
+      "College": "Miami University"
+    },
+    {
+      "No.": 7,
+      "Player": "Lamar Odom",
+      "Pos": "PF",
+      "Ht": "6-10",
+      "Wt": 220,
+      "Birth Date": "November 6 1979",
+      "Exp": 8,
+      "College": "University of Rhode Island"
+    },
+    {
+      "No.": 10,
+      "Player": "Vladimir Radmanovic",
+      "Pos": "SF",
+      "Ht": "6-10",
+      "Wt": 227,
+      "Birth Date": "November 19 1980",
+      "Exp": 6,
+      "College": ""
+    },
+    {
+      "No.": 21,
+      "Player": "Ronny Turiaf",
+      "Pos": "C",
+      "Ht": "6-10",
+      "Wt": 249,
+      "Birth Date": "January 13 1983",
+      "Exp": 2,
+      "College": "Gonzaga University"
+    },
+    {
+      "No.": 18,
+      "Player": "Sasha Vujacic",
+      "Pos": "SG",
+      "Ht": "6-7",
+      "Wt": 195,
+      "Birth Date": "March 8 1984",
+      "Exp": 3,
+      "College": ""
+    },
+    {
+      "No.": 4,
+      "Player": "Luke Walton",
+      "Pos": "SF",
+      "Ht": "6-8",
+      "Wt": 235,
+      "Birth Date": "March 28 1980",
+      "Exp": 4,
+      "College": "University of Arizona"
+    }
+  ]
+}
